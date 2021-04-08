@@ -1,0 +1,4 @@
+unique_id,timestamp,y_pred,y_proba,query,model_version,runtime
+0b247d56-82ab-4a5f-a024-8dec7de7604f,1617423642.3364415,0.0,None,"['united_states', 24, 'aavail_basic', 8]",0.1,000:00:00
+6d7ced31-b77a-4b2b-8770-b01b8805123d,1617423642.3384414,1.0,None,"['singapore', 42, 'aavail_premium', 17]",0.1,000:00:00
+c629db9c-e82a-4626-b7f8-3b008e0633ae,1617423642.3404434,0.0,None,"['united_states', 20, 'aavail_basic', 14]",0.1,000:00:00
